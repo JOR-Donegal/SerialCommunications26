@@ -1,5 +1,2 @@
-# MKTemplate
-Template for new teaching notes
-
-1. Edit mkdocs to name the project and add a URL
-2. 
+# MKSerial Communications
+06JAN26: Rewritten based on original teaching notes.
